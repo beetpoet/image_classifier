@@ -1,2 +1,2 @@
 # image_classifier
-Udacity final project: image classifer, Pytorch
+### Udacity final project: image classifer, Pytorch
